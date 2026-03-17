@@ -1,68 +1,168 @@
-<!-- Profile Banner -->
+<!-- Modern Banner -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=200&section=header&text=Sarah%20Ahmed%20Abdi&fontSize=48&animation=fadeIn&fontAlignY=40" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Sarah%20Ahmed%20Abdi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h2 align="center">👋 Hi, I'm Sarah Ahmed Abdi! 🇸🇴</h2>
-<p align="center">✨ Web Developer • Next.js Enthusiast • Lifelong Learner ✨</p>
+<!-- Typing animation -->
 
----
-
-### 🌈 About Me
-- 🏠 Living in **Somalia**
-- 💻 Building modern web apps with **Next.js**
-- 🖥️ Always learning, always growing
-- 🎨 I love making things beautiful—code, design, and life!
-- 🚀 On a journey to innovate and inspire
-
----
-
-### 🛠️ Skills & Tools
 <p align="center">
-  ⚡ Next.js • 💻 JavaScript • 🖥️ HTML/CSS • 🗃️ Git & GitHub • 🐍 Python
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=AI+Developer;Co-Founder+of+Allif.tech;AI+Chatbot+Engineer;Web+%26+Mobile+App+Developer;Technology+Entrepreneur"/>
 </p>
 
 ---
 
-### 🚩 Featured Projects
-- [Safar AI](#) 🤖 — Smart travel assistant powered by AI
-- [Processing Project](#) ⚡ — Creative coding and data visualizations
+# 👩‍💻 Sarah Ahmed Abdi
+
+**AI Developer • Software Engineer • Co-Founder of Allif.tech**
+
+Technology entrepreneur based in **Somalia** building intelligent systems, AI chatbots, modern web applications, and mobile platforms.
+
+My work focuses on **Artificial Intelligence, automation, and scalable digital products**.
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 Core Skills
+
+• Artificial Intelligence  
+• AI Chatbot Development  
+• Web Application Development  
+• Mobile-Friendly Applications  
+• Startup Technology Products  
+• AI Automation Systems  
+• SaaS Platforms  
+
+---
+
+# 🤖 AI Development
+
+I build intelligent systems such as:
+
+- AI chatbots for businesses  
+- automated customer support systems  
+- conversational AI assistants  
+- AI workflow automation  
+- smart digital tools for companies  
+
+These solutions help businesses **automate processes, improve communication, and scale digitally**.
+
+---
+
+# 🛠 Technology Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarahahmedabdi&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahahmedabdi&theme=radical" height="160"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,nodejs,python,git,github,vscode"/>
+
+</p>
+
+### Frontend
+
+- Next.js  
+- React  
+- JavaScript  
+- HTML5  
+- CSS3  
+
+### Backend
+
+- Node.js  
+- Python  
+
+### Tools
+
+- Git  
+- GitHub  
+- VS Code  
+
+---
+
+# 🏢 Company
+
+## Allif.tech
+
+**Allif.tech** is a technology company focused on building modern digital solutions.
+
+Main areas of development:
+
+• Artificial Intelligence systems  
+• AI chatbot platforms  
+• automation software  
+• web applications  
+• mobile-first platforms  
+• startup technology products  
+
+---
+
+# 🚀 Development Focus
+
+### AI Products
+- AI chatbots
+- automation systems
+- intelligent assistants
+- AI powered platforms
+
+### Web Applications
+- business dashboards
+- startup MVP platforms
+- SaaS tools
+- modern web systems
+
+### Mobile Platforms
+- progressive web apps
+- mobile-friendly software
+- digital tools for businesses
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sarahahmedabdi&show_icons=true&theme=tokyonight"/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sarahahmedabdi&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 🌐 Connect With Me
+# 📈 Development Activity
+
 <p align="center">
-  <a href="mailto:zahraahmedabdi2@gmail.com">✉️ Email</a> •
-  <a href="https://wa.me/252612009947">💬 WhatsApp</a> •
-  <a href="https://facebook.com/your-facebook-profile">📘 Facebook</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarahahmedabdi&theme=tokyo-night"/>
+
 </p>
 
 ---
 
+# 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+
+<a href="mailto:zahraahmedabdi2@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://wa.me/252612009947">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+<a href="https://www.instagram.com/zahraahmed.abdi">
+<img src="https://img.shields.io/badge/Instagram-Profile-purple?style=for-the-badge&logo=instagram"/>
+</a>
+
 </p>
 
 ---
 
+# 💡 Vision
+
+> Building the future with Artificial Intelligence, modern software, and innovation.
+
+---
+
 <p align="center">
-  <b>✨ Thank you for visiting my profile! ✨</b><br>
-  <img src="https://komarev.com/ghpvc/?username=sarahahmedabdi&color=blue&style=flat-square" alt="profile views"/> <br>
-  <span>🌟 Keep shining & keep coding! 🌟</span>
+<img src="https://komarev.com/ghpvc/?username=sarahahmedabdi&color=2563EB&style=flat-square"/>
 </p>
